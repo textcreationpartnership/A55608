@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Papists dream, concerning what shall become of their plots, interests, persons, and religion</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55608</idno><idno type="EEBO-CITATION">12801208</idno>
+  <idno type="VID">94059</idno>
+  <idno type="EEBO-PROQUEST">2240958499</idno>
+  
+            <idno type="STC">Wing P314</idno>
+            <idno type="STC">ESTC R6891</idno>
+            <idno type="OCLC">12801208</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94059)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 725:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Papists dream, concerning what shall become of their plots, interests, persons, and religion</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.K.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:94059:1"/>
+            <head>THE Papists Dream, Concerning What shall become of Their Plots, Interests, Persons, and RELIGION.</head>
+            <p>WO is Me! Ah, Wo is me! For, having by Multipli<g ref="char:EOLhyphen"/>city of Business in Plotting, and Conspiring the He<g ref="char:EOLhyphen"/>reticks Ruine, reposed my Self, through a Despon<g ref="char:EOLhyphen"/>dency of Success; after so many treacherous betray<g ref="char:EOLhyphen"/>ings of our Projects, even by those which therein were concerned. And so a Plot was no sooner Contrived; but Discovered; and hereby the Jealousie of the Hereticks against us Enraged, and we Defeated. Thus being Discouraged▪ my drowsy Brain inclin'd me to Sleep; where (me thoughts) my Imagination was pry<g ref="char:EOLhyphen"/>ing into Natures Cabiner, my Sleeping Thoughts being the real Sense of my Waking Actions, me thoughts (as my Fancy carryes me) that a Popish Successor would much tend to the Propagating the Catholick In<g ref="char:EOLhyphen"/>terest, on these Heretical Kingdoms. I should be entertained with this Voice, <hi>It should be so indeed, when the Pope was Converted, and the Jesuits, Priests, Monk<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>nd Fryars become good Protestants.</hi> Which Voice much disturbed my Cogitations, wondring whose▪ Sound it should be, and am<g ref="char:EOLhyphen"/>biguous who this should be, that should thus seem to Side with Here<g ref="char:EOLhyphen"/>ticks? For, I believed these Holy Fathers, <hi>&amp;c.</hi> would never turn such.</p>
+            <p>But a while after (me-thoughts) many successless Attempts of the Ho<g ref="char:EOLhyphen"/>nest, unwearied <hi>Catholicks,</hi> to my Joy, I saw in my <hi>Dream,</hi> that by a Forraign Invasion, together with the joyning Forces, and Assistance of our Faithful Friends at Home, they fell to it with Might and Main, Hew<g ref="char:EOLhyphen"/>ing, Hacking, Cutting, and Extirpating the <hi>Hereticks,</hi> more Nobly, and Couragiously Executing the Sentence of Excommunication, sending them out of the Church and World, than they ever yet did, either on the
+<pb n="2" facs="tcp:94059:2"/>
+               <hi>Albigenses,</hi> and <hi>Waldenses,</hi> &amp;c. or of late, at <hi>Paris,</hi> or <hi>Ireland:</hi> insomuch, that all the Heretical Kingdoms in <hi>Europe,</hi> were Weltring in their Gore, and Streets filled with their Dead Carcasses, the Channels Running with their Blood, and the Rivers thereby Dyed Red. Thus (me-thoughts) it for a short space continued; The <hi>Catholicks</hi> set up their Government and Worship, possessed the Nation, and all the Earth wondered at them, and the Nations of the Earth Worshipped, and did them Homage; they bearing the Sway over all the <hi>Western</hi> world. But on a sudden, a Remnant of the Hereticks, who were not Slain in the general overthrow, rose up Valiantly, and Warred against them, being exceeding Mighty, and all their Cry was <hi>Deus nobiscum, Deus nobiscum,</hi> being in Strength, and Fierceness as so many Lions; yea, a very Impregnable Castle, an Ene<g ref="char:EOLhyphen"/>my so Resolute and Formidable, against which, the <hi>Catholicks</hi> who Flo<g ref="char:EOLhyphen"/>rished, but even now Splendidly, and seemed to be the Strength of the whole Earth, could not stand, but great was their Cry, Screeches, and Roarings, Falling exceedingly, Slain of these, and Cursed of <hi>God.</hi> La<g ref="char:EOLhyphen"/>menting, <hi>Vae Nobis, Vae Nobis;</hi> for all their Sorrows, Plagues, and Mise<g ref="char:EOLhyphen"/>ries came on them suddenly, and unexpectedly, even in one Day: For their Enemies Burned them with Fire, gave them a Double Portion of Blood, Crying out, for they are Worthy, and so exceeding Great; and dismal was their Fall, that it made my Heart Ake to think of it. For although the Kings, and Great Men of the Earth had some Regard to them, and Pittied them; yet were unable to Assist, or Help. And af<g ref="char:EOLhyphen"/>ter this Total Ruin, and Final Subversion of the <hi>Roman Catholicks,</hi> me-thoughts I saw their Enemies (whom I used to call <hi>Hereticks)</hi> Flourish exceedingly, Setting up their Government, Religion, and Worship; and even all the Nations of the Earth Converted to them; and they Prospe<g ref="char:EOLhyphen"/>red exceedingly, and had no more Enemies to offer them any Hostility; which thing much amazed me, making me to question the <hi>Catholicks,</hi> and believe the <hi>Protestants</hi> (whom we call <hi>Hereticks)</hi> to be True Chri<g ref="char:EOLhyphen"/>stians.</p>
+            <p>So I awoke, and the influence of my Sleeping Thoughts, I found strongly on my Deliberate Waking Considerations, which has caused me fully to Resolve and Declare, that I believe the <hi>Protestants</hi> not to be <hi>Hereticks;</hi> and for my part, that I no longer will be a <hi>Papist.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> J. K. 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
